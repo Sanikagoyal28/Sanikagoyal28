@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Frontend developer from India</h3>
 
 <h3 align="left">About Me</h3>
-- 👩‍💻 Frontend Web developer(ReactJS)<br/>
+- 👩‍💻 Fullstack Web developer(MERN)<br/>
 - 🎓 Pursuing Bachelor's Degree in Computer Science<br/>
-- 🌱 Currently upgrading my skillset in Serverside Technologies<br/>
 - 🙂 Just like a code under developement<br/>
 
 <h3 align="left">Languages and Tools</h3>
