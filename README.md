@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Sanika Goyal</h1>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=👩‍💻 MERN Stack Developer&label=&color=872341&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
+<img src="https://img.shields.io/static/v1?message=MERN_Stack&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="MERN Stack"  />
 </div>
 <div align="center">
-<a href="mailto:sanikagoyal2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  /></a>
- <a href="https://www.linkedin.com/in/sanika-goyal-092002252/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  /></a>
+<a href="mailto:sanikagoyal2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail"  /></a>
+ <a href="https://www.linkedin.com/in/sanika-goyal-092002252/"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Linkedin"  /></a>
 </div>
 <br/>
 
